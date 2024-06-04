@@ -1,0 +1,6 @@
+@WSTube_HostAddress = http://localhost:5278
+
+GET {{WSTube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
